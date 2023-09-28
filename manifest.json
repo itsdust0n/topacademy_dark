@@ -2,7 +2,11 @@
   "manifest_version": 3,
   "name": "Top Academy Dark Theme",
   "version": "0.1",
-  "description": "This extension adds dark theme to Top Academy Journal"
+  "description": "This extension adds dark theme to Top Academy Journal",
+  "action": {
+    "default_popup": "extension.html"
+    "default_icon": "icons/extension_icon.png"
+  }
   "content_scripts": [{
     "matches": "https://journal.top-academy.ru/*"
   }]
