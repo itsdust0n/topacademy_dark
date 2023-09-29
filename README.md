@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/itsdust0n/topacademy_dark">
     <img src="icons/extension_icon.png" alt="Logo" width="64" height="64">
   </a>
 
@@ -22,9 +22,9 @@
     An awesome dark theme for Top Academy Journal
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/itsdust0n/topacademy_dark/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/itsdust0n/topacademy_dark/issues">Request Feature</a>
   </p>
 
 </div>
