@@ -20,6 +20,7 @@
 
 .homepage-wrapper .part-homeworks .homeworks-content .count-holder.items {
 	background: #2e2e2e !important;
+	border-radius: 8px !important;
 }
 
 .homepage-wrapper .rating-blocks .ratings .inner.rating-details .part-details {
