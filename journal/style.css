@@ -147,3 +147,49 @@ body {
     color: #5b6375 !important;
 }
 
+.progress-section .item .content-progress {
+    background-color: #262626 !important;
+    border-radius: 8px !important;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0) !important;
+	border: 1px solid #2e2e2e !important;
+}
+
+.progress-section .item .main-block .block-day .all-less .lessons {
+    background-color: #2E2E2E !important;
+    border-radius: 8px !important;
+    border: 1px solid #363636 !important;
+}
+
+.progress-section .item .main-block .block-day .date {
+    color: #8ca0c3 !important;
+}
+
+.progress-section .item .main-block .block-day .all-less .lessons .rating .kr {
+    background: #608966 !important;
+}
+
+.progress-section .item .content-progress .header {
+    border-bottom: 1px solid #2e2e2e !important;
+	color: #8198c1 !important;
+}
+
+.progress-section .item .content-progress .select .ng-select .ng-select-container .ng-value-container {
+    background-color: #363636 !important;
+    border: 1px solid #434242 !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.progress-section .item .content-progress .select .ng-select .ng-dropdown-panel {
+    background: #363636 !important;
+    border: 1px solid #434242 !important;
+    border-radius: 8px !important;
+}
+
+.progress-section .item .content-progress .select .ng-select .ng-dropdown-panel .scroll-host .ng-option:hover {
+    background: #434242 !important;
+}
+
+.progress-section .item .content-progress .description {
+    border-bottom: 1px solid #2e2e2e !important;
+}
+
