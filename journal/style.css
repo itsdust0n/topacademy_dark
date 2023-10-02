@@ -193,3 +193,49 @@ body {
     border-bottom: 1px solid #2e2e2e !important;
 }
 
+.homeworks-section .item-homework .item-container .item .item-header {
+    background-color: #2e2e2e !important;
+    border-radius: 8px 8px 0px 0px !important;
+}
+
+.homeworks-section .item-homework .item-container .item.status3 .item-image {
+    background: url(/assets/images/file.png?v=1623c36…) #2e2e2e center center no-repeat;
+}
+
+.homeworks-section .item-homework .item-container .item-footer {
+    border-radius: 0px 0px 8px 8px !important;
+}
+
+.homeworks-navigation .ng-select .ng-select-container .ng-value-container {
+    background-color: #2e2e2e !important;
+    border: 1px solid #363636 !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.homeworks-navigation .ng-select .ng-dropdown-panel {
+    background: #2e2e2e !important;
+    border-radius: 8px !important;
+    border: 1px solid #363636 !important;
+}
+
+.homeworks-navigation .ng-select .ng-dropdown-panel .scroll-host .ng-option:hover {
+    background: #363636 !important;
+}
+
+.homeworks-section .item-homework .item-container .item .item-header .info-content {
+    background: #363636 !important;
+    border-radius: 8px !important;
+}
+
+.homeworks-section .item-homework .item-container .item .item-header .info-content .header-info {
+    color: #abbcdb !important;
+    border-bottom: 1px solid #434242 !important;
+}
+
+.homeworks-section .item-homework .item-container .item .item-header .info-content p {
+    color: #737e93 !important;
+}
+
+.homeworks-section .item-homework .item-container .item.status2 .item-footer {
+    background-color: #c7a449 !important;
+}
