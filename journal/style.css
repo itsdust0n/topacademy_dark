@@ -239,3 +239,8 @@ body {
 .homeworks-section .item-homework .item-container .item.status2 .item-footer {
     background-color: #c7a449 !important;
 }
+
+.homeworks-section .item-homework .item-container .item {
+    background-color: #2e2e2e !important;
+    border-radius: 8px !important;
+}
