@@ -40,6 +40,10 @@
 	color: rgba(255,255,255,0.7) !important;
 }
 
+.right-block .align-self-end:hover .img-logout-block {
+    background-color: rgba(255, 255, 255) !important;
+}
+
 .wrap-counts {
 	background-color: #2e2e2e !important;
 }
