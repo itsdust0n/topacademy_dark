@@ -248,3 +248,56 @@ body {
     background-color: #2e2e2e !important;
     border-radius: 8px !important;
 }
+
+.text-homework-wrap .center, .text-homework-answer-wrap .center {
+    border: 1px dashed #2e2e2e !important;
+    border-radius: 8px !important;
+}
+
+.text-homework-wrap .text-homework-field-wrap, .text-homework-answer-wrap .text-homework-field-wrap {
+    padding: 8px !important;
+    border: 1px solid #2e2e2e !important;
+    border-radius: 8px !important;
+}
+
+.text-homework-wrap .text-homework-time-spent-wrap, .text-homework-answer-wrap .text-homework-time-spent-wrap {
+    border: 1px solid #2e2e2e !important;
+    border-radius: 8px !important;
+    padding-left: 8px !important;
+}
+
+.text-homework-wrap .text-homework-time-spent input, .text-homework-answer-wrap .text-homework-time-spent input {
+    background: #242424 !important;
+}
+
+.text-homework-wrap .evaluation-feedback-wrap .evaluation-tags-item, .text-homework-answer-wrap .evaluation-feedback-wrap .evaluation-tags-item {
+    border: 1px solid #363636 !important;
+    color: #168daf !important;
+    background: #2e2e2e !important;
+}
+
+.text-homework-wrap .evaluation-feedback-wrap .want-review-toggle, .text-homework-answer-wrap .evaluation-feedback-wrap .want-review-toggle {
+    border: 1px solid #363636 !important;
+    padding: 2px 7px !important;
+    border-radius: 8px !important;
+    background: #2e2e2e !important;
+    font-weight: 100 !important;
+}
+
+.text-homework-wrap .buttons-wrap .btn-decline, .text-homework-answer-wrap .buttons-wrap .btn-decline {
+    background: #363636 !important;
+    border-radius: 8px !important;
+}
+
+.text-homework-wrap .buttons-wrap .btn-accept, .text-homework-answer-wrap .buttons-wrap .btn-accept {
+    border-radius: 8px !important;
+}
+
+.text-homework-wrap .center h6, .text-homework-answer-wrap .center h6 {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.text-homework-wrap .center .file-drop-description, .text-homework-answer-wrap .center .file-drop-description {
+    color: #3d97c9 !important;
+}
+
