@@ -71,6 +71,10 @@
     background-color: rgba(0,0,0,0) !important;
 }
 
+bs-tooltip-container.tooltip.in.tooltip-auto.bs-tooltip-auto.auto.counts-tooltip.show.bottom {
+    background: #2e2e2e !important;
+}
+
 .tooltip, .tooltip-achieve { /* ??? */
     background-color: #2e2e2e !important;
 }
