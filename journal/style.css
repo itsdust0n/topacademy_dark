@@ -305,3 +305,6 @@ body {
     color: #3d97c9 !important;
 }
 
+.text-homework-wrap .evaluation-feedback-wrap .evaluation-tags-item.active, .text-homework-answer-wrap .evaluation-feedback-wrap .evaluation-tags-item.active {
+    background: #cee5f0 !important;
+}
