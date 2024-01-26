@@ -64,7 +64,8 @@ will be filled soon
 
 ### Built With
 
-will be filled soon
+* HTML
+* CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
