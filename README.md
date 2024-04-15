@@ -58,7 +58,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-will be filled soon
+Do you have that situation: at night you want to make some hw's or do anything different on IT Top Academy Journal, and you're dazzling by the white theme of the Journal? I think that if you're studying at the IT Top Academy then you've faced it at least once. Well, this extension will help you avoid situations like this.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
