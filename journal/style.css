@@ -383,3 +383,17 @@ body {
 .product-block {
 	background: var(--ext_secondary) !important;
 }
+
+.rating-block {
+    background: var(--ext_secondary) !important;
+}
+
+.app-tags-input-item {
+    border: 1px solid var(--ext_fourthary) !important;
+    background: var(--ext_thirdary) !important;
+}
+
+.comment-block-textarea {
+    border: 1px solid var(--ext_fourthary) !important;
+    background: var(--ext_thirdary) !important;
+}
