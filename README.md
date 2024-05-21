@@ -45,7 +45,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <!-- <li><a href="#roadmap">Roadmap</a></li> -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -72,7 +72,7 @@ Do you have that situation: at night you want to make some hw's or do anything d
 <!-- GETTING STARTED -->
 ## Getting Started
 
-will be filled soon
+Firstly, you should determine version of manifest.json that you need. If you're using Google Chrome, Yandex Browser, Opera or any other web browser that based on Chromium, then you should use Manifest.json V3. If you're using Firefox, or any other browser with support Manifest.json V3, then you should use Manifest.json V3 also. If you use Safari, then you should use Safari version of extension. In other cases, use Manifest V2 instead.
 
 ### Installation
 
@@ -82,13 +82,13 @@ will be filled soon
 
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap
 
 will be filled soon
 
 See the [open issues](https://github.com/itsdust0n/topacademy_dark/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- LICENSE -->
@@ -112,8 +112,8 @@ Project Link: [https://github.com/itsdust0n/topacademy_dark](https://github.com/
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 will be filled soon
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
